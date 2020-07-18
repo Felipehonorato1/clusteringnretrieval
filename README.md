@@ -2,6 +2,7 @@
 Repository made in order to implement clustering and retrieval course's algorithms
 
 ## Algorithms
+- [ ] K-Nearest Neighbors
 
 - [ ] KD-Trees
 
@@ -10,6 +11,10 @@ Repository made in order to implement clustering and retrieval course's algorith
 - [ ] Mixture Model
 
 - [ ] Latent Dirichlet Allocation
+
+_EXTRA: GSDMM - Short Text Modeling based on LDA_ 
+
+## About:
 
 ## Course
 
