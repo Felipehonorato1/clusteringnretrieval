@@ -39,6 +39,6 @@ Learning Outcomes:  By the end of this course, you will be able to:
 
 ## Course
 
-_Taught by Emily Fox and Carlos Guestrin_
+_ Offered by University of Washington and taught by Emily Fox and Carlos Guestrin_
 
 [ Coursera ](https://www.coursera.org/learn/ml-clustering-and-retrieval)
