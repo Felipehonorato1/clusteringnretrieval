@@ -6,7 +6,7 @@ Repository made in order to implement clustering and retrieval course's algorith
 
 - [ ] KD-Trees
 
-- [ ] K-Means 
+- [X] K-Means 
 
 - [ ] Mixture Model
 
