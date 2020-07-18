@@ -2,8 +2,10 @@
 Repository made in order to implement clustering and retrieval course's algorithms
 
 ## Algorithms
-[X] KD-Trees
-[X] KD-Means
+
+- [X] KD-Trees
+
+- [X] KD-Means
 
 
 ## Course
