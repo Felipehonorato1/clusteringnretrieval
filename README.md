@@ -12,7 +12,7 @@ Repository made in order to implement clustering and retrieval course's algorith
 
 - [ ] Latent Dirichlet Allocation
 
-- [ ]_Extra: GSDMM - Short Text Modeling based on LDA_ 
+- [ ] _Extra: GSDMM - Short Text Modeling based on LDA_ 
 
 ## About:
 
