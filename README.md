@@ -3,10 +3,13 @@ Repository made in order to implement clustering and retrieval course's algorith
 
 ## Algorithms
 
-- [X] KD-Trees
+- [ ] KD-Trees
 
-- [X] KD-Means
+- [ ] KD-Means 
 
+- [ ] Mixture Model
+
+- [ ] Latent Dirichlet Allocation
 
 ## Course
 
