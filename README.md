@@ -1,4 +1,4 @@
-# Machine Learning: Clustering and Retrieval
+# Machine Learning: Clustering and Retrieval [IN PROGRESS] 
 Repository made in order to implement clustering and retrieval course's algorithms
 
 ## Algorithms
